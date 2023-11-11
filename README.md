@@ -1,4 +1,4 @@
-# Retos de lógica y programación - Curso de Python (Nivel I) 🐍
+# Retos de lógica y programación - Curso de Python 🐍
 
 ¡Bienvenido al repositorio "retos-curso-python"! Aquí podrás compartir y colaborar en las resoluciones de los desafíos propuestos durante el "Curso de Python - Nivel I" dictado en la UTN-FRVM.
 
