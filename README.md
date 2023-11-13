@@ -16,7 +16,7 @@
 
 * Cada clase se publica un nuevo ejercicio.
 * Los ejercicios no tienen relación entre ellos. Puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
-* Una vez se haya cumplido la semana de publicación del reto, podrás consultar nuestra corrección y las de los demas estudiantes.
+* Una vez se haya cumplido la semana de publicación del ejercicio, podrás consultar nuestra solución y las de los demas estudiantes.
 
 ## Listado de ejercicios
 Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y enunciado del mismo. En su directorio podrás consultar las distintas correcciones del ejercicio.
