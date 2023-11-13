@@ -19,8 +19,12 @@
 * Una vez se haya cumplido la semana de publicación del reto, podrás consultar nuestra corrección y las de los demas estudiantes.
 
 ## Listado de ejercicios
-Aca podrás encontrar el listado de los ejercicios, su fecha de publicación, dificultad y enunciado del mismo. En su directorio podrás consultar las distintas correcciones del ejercicio.
-* #0 - 26/12/22 | Media | MATRICES TRIANGULARES | Correcciones: [SOLUCIÓN] [COMUNIDAD]
+Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y enunciado del mismo. En su directorio podrás consultar las distintas correcciones del ejercicio.
+* #0 - 06/11/23 | [MATRICES TRIANGULARES](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%230%20-%20Matrices%20Triangulares/enunciado.pdf) | Correcciones: [SOLUCIÓN] [ALUMNOS]
+* #1 - 13/11/23 | [ESPIRAL GALACTICA](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%231%20-%20Espiral%20Galactica/enunciado.pdf) | Correciones: [[SOLUCIÓN]](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%231%20-%20Espiral%20Galactica/resoluci%C3%B3nProfes.py)  [ALUMNOS]
+* #2 - 13/11/23 | [BUSCAMINAS](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%232%20-%20Buscaminas/enunciado.pdf) | Correciones: [SOLUCIÓN] [ALUMNOS]
+* #3 - 13/11/23 | [CADENASADN](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%233%20-%20Cadenas%20ADN/enunciado.pdf) | Correciones: [SOLUCIÓN] [ALUMNOS]
+* #4 - 13/11/23 |  DIAMANTESYARENA | Correciones: [SOLUCIÓN] [ALUMNOS]
 
 ## ¿Cómo puedo participar?
 
