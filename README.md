@@ -14,7 +14,7 @@
 
 ## Información importante 
 
-* Cada semana se publica un nuevo ejercicio.
+* Cada clase se publica un nuevo ejercicio.
 * Los ejercicios no tienen relación entre ellos. Puedes resolverlos de manera totalmente independiente. Simplemente revisa su nivel de dificultad.
 * Una vez se haya cumplido la semana de publicación del reto, podrás consultar nuestra corrección y las de los demas estudiantes.
 
