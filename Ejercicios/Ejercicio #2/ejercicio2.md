@@ -1,0 +1,6 @@
+# Enunciado
+Buscaminas
+
+# Entradas
+
+# Salidas
