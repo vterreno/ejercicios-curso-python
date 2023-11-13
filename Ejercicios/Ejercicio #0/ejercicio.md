@@ -15,21 +15,35 @@ Para cada caso de prueba se indicará SI si la matriz es triangular y NO en caso
 ### Entrada de ejemplo
 
 3
+
 1 2 3
+
 0 6 4
+
 0 0 5
+
 3
+
 1 0 0
+
 2 3 0
+
 4 5 6
+
 3
+
 1 1 1
+
 1 1 1
+
 0 0 1
+
 0
 
 ### Salida de ejemplo
 
 SI
+
 SI
+
 NO
