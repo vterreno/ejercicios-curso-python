@@ -38,7 +38,7 @@ Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y e
 
 ## Equipo "Curso de Python - Nivel I" 📚
 
-* **@brunolucarelli05**
+* **@brunolucarelli5**
 * **@vterreno**
 
 Curso dictado en la **Universidad Tecnológica Nacional - Facultad Regional Villa María**. \
