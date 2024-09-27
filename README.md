@@ -42,6 +42,7 @@ Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y e
 
 * **@brunolucarelli5**
 * **@vterreno**
+* **@ignamosconi**
 
 Curso dictado en la **Universidad Tecnológica Nacional - Facultad Regional Villa María**. \
 Organizado por: **Departamento de Ingeniería en Sistemas de Información - Secretaría de Asuntos Estudiantiles**.
