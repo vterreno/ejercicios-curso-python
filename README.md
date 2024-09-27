@@ -1,16 +1,13 @@
-# Ejercicios de lógica y programación - Curso de Python 🐍
+# Ejercicios de lógica y programación - Taller de acompañamiento de algoritmos 🐍
 
-¡Bienvenido al repositorio "ejercicios-curso-python"! Aquí podrás compartir y colaborar en las resoluciones de los desafíos propuestos durante el "Curso de Python - Nivel I" dictado en la UTN-FRVM.
+¡Bienvenido al repositorio "ejercicios-curso-python"! Aquí podrás compartir y colaborar en las resoluciones de los desafíos propuestos durante el "TALLER DE ACOMPAÑAMIENTO ACADÉMICO ALGORITMOS Y ESTRUCTURAS DE DATOS" dictado en la UTN-FRVM.
 
-## Objetivos del curso 🚀
+## Objetivos del taller 🚀
 
-1. **Reforzar los conceptos de pensamiento computacional, lógica computacional y algoritmos.**
-
-2. **Cultivar el espíritu de colaboración y trabajo en equipo.**
-
-3. **Capacitar en el uso efectivo de Python y manipulación de estructuras de datos.**
-
-4. **Incentivar el pensamiento crítico y la capacidad de abstracción.**
+1. Reforzar los conceptos de pensamiento computacional, lógica computacional y algoritmos.
+2. Cultivar el espíritu de colaboración y trabajo en equipo a través de proyectos prácticos que involucren el uso de Python y la manipulación de estructuras de datos.
+3. Capacitar a los estudiantes en el uso efectivo del lenguaje de programación Python como una herramienta versátil para implementar soluciones en código.
+4. Incentivar el pensamiento crítico y la capacidad de abstracción al plantear desafíos que requieran análisis y diseño de soluciones algorítmicas.
 
 ## Información importante 
 
