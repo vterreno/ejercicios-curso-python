@@ -25,6 +25,8 @@ Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y e
 * #5 - 15/11/23 | [TIEMPODELEVENTO](https://github.com/vterreno/ejercicios-curso-python/blob/main/Ejercicios/Ejercicio%20%235%20-%20Tiempo%20del%20evento/enunciado.pdf) | Correcciones: [SOLUCIÓN] [[ALUMNOS]](https://github.com/vterreno/ejercicios-curso-python/tree/main/Ejercicios/Ejercicio%20%235%20-%20Tiempo%20del%20evento)
 
 
+
+
 ## ¿Cómo puedo participar?
 
 **Haz un FORK del proyecto y trabaja con Git para ir sincronizando las actualizaciones.**
