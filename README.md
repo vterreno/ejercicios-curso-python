@@ -50,7 +50,7 @@ Aca podrás encontrar el listado de los ejercicios, su fecha de publicación y e
 4. Podes proponer Pull Request con propuestas o correcciones sobre ejercicios del resto de la comunidad si estos poseen errores. De esta manera colaboraremos para crear un repositorio cada vez más valioso.
 5. Si se te solicita un cambio/corrección en una Pull Request, y al cabo de 2 semanas no se muestra nueva actividad, se cerrará esa petición para mantener el repositorio limpio. Por supuesto, puedes volver a enviar la Pull Request cuando quieras.
 
-## Equipo "Curso de Python - Nivel I" 📚
+## Equipo "Taller de acompañamiento de algoritmos" 📚
 
 * **@brunolucarelli5**
 * **@vterreno**
