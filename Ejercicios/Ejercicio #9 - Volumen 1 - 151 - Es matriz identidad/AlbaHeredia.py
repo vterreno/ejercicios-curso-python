@@ -28,6 +28,7 @@ while Ingreso==True:
         
         #recorro la fila
         for k in range(len(fila)):
+
             if fila[k] != ' ':  #Si el elemento en la fila no es un espacio...
                 Matriz[i][j] = int(fila[k])  #convierto a entero y asigno a la matriz
                 j += 1  #incremento a la siguiente columna (ya que la que sigue sería un espacio)
@@ -35,6 +36,7 @@ while Ingreso==True:
     #creo una VB para verificar si es M.I
     VB=True 
             
+
     #recorro la matriz y verifico si los valores de la DP son 1 y el resto 0
     for i in range(f):
         for j in range(c):
