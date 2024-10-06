@@ -4,6 +4,7 @@ def hora_segundo(n):
     segundo = int(n[6:8])
     total_en_segundo = hora + minuto + segundo
     return total_en_segundo
+    
 def segundo_hora(n):
     w = n // 86400
     r = n  % 86400
