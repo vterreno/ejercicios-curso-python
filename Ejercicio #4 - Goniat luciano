@@ -1,0 +1,16 @@
+n=int(input())
+for i in range(n):
+    cadena=str(input())
+    cont=0
+    indice=0
+
+    for x in range(len(cadena)):
+
+        if cadena[x] == "<":
+            indice += 1 
+        elif cadena[x] == ">" and indice > 0:
+
+            indice -= 1  #aca encontre el diamante y lo resto
+            cont += 1
+            
+    print(cont)
