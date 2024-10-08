@@ -1,4 +1,4 @@
-ilas = int(input("Ingrese el número de filas: "))
+filas = int(input("Ingrese el número de filas: "))
 
 
 
