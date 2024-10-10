@@ -14,7 +14,7 @@ def contar_diamantes(casos, N):
         print(diamantes)  
 
 #leer número de casos de prueba
-N = int(input("Ingresa el número de casos de prueba: "))
+N = int(input(""))
 casos = [input() for i in range(N)]
 
 #procesar y mostrar los resultados
