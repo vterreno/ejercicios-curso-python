@@ -51,12 +51,16 @@ def camasdisp(prueba,situacion):
                 espacios=-1
                 bandera2=1
     return espaciostotales
-print("Ingrese la situacion de las camas, el algoritmo terminado cuando ingrese un caso vacio")
 caso=str(input()).lower()
+resultados = [0] * 10000
+i = 0
 while caso!="":
     bandera=0
     if caso[0]=="x" and caso[len(caso)-1]=="x": bandera=1
     elif caso[0]=="x": bandera=2
     elif caso[len(caso)-1]=="x": bandera=3
-    print(camasdisp(caso,bandera))
-    caso=str(input())
+    resultados[i] = camasdisp(caso,bandera)
+    i += 1
+    caso=str(input()).lower()
+for i in range(i):
+    print(resultados[i])
