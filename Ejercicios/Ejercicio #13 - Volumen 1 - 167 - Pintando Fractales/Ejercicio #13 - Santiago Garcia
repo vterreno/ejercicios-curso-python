@@ -1,0 +1,8 @@
+caso=int(input())
+acum=0
+cont=0
+while caso!=0:
+    cont+=1
+    acum+=caso*2**(cont*2)
+    caso=caso//2
+print(acum)
