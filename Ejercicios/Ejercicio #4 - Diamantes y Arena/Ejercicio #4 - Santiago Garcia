@@ -1,0 +1,21 @@
+def encontradiamantes(subcadena,cont):
+    bandera=0
+    cadenanew=""
+    for i in range(len(subcadena)):
+        if subcadena[i:2+i]=="<>":
+            bandera=1
+            cont+=1
+        else:
+            cadenanew+=subcadena[i]
+    if bandera==0:
+        return cont
+    else: return encontradiamantes(cadenanew,cont)
+casos=int(input())
+for i in range(casos):
+    cont=0
+    cadena=str(input())
+    subcadena=""
+    for j in range(len(cadena)):
+        if cadena[j]=="<" or cadena[j]==">":
+            subcadena+=cadena[j]
+    print(encontradiamantes(subcadena,cont))
