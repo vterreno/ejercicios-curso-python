@@ -18,6 +18,7 @@ while contador < N:
             
     casos += str(diamantes)
     contador += 1 
-print(casos)             
+for i in range(len(casos)):
+    print(casos[i])             
        
         
