@@ -4,10 +4,12 @@ for _ in range(n):
     conta = 0
     contc = 0
     diamantes = 0
+    estado = False
     for i in entrada:
         if i == '<':
             conta += 1
-        if i == '>':
+            estado = True
+        if i == '>' and estado:
             contc += 1
     if contc >= conta:
         diamantes = conta
